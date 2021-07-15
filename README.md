@@ -1,6 +1,6 @@
-# Empresas App
+# Controle Financeiro App
 
-Projeto de cadastro de empresas, com a backend e frontend.
+Projeto transações financeira, com a backend e frontend.
 
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
