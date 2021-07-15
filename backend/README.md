@@ -120,11 +120,14 @@ Backend para funcionamento de um cadastro de transações financeiras utilizando
 // Request(Query):
 // Response: StatusCode: 200 (OK)
 {
-  "nome": "BrBatel2",
-  "cnpj": "27791065000159",
-  "valor_monetario": "20.000",
-  "faturamento_anual": "20.000.000",
-  "sobre": "Empresa promissora, e com altas expectativas para 2021"
+  "_id": "60eceaca49a7f12a84be61d5",
+  "name": "Leo",
+  "documentNumber": "884.189.780-58",
+  "income": "2000",
+  "outflow": "1000",
+  "description": "Entrada de envestimento!",
+  "createdAt": "2021-07-13T01:22:18.404Z",
+  "updatedAt": "2021-07-13T01:25:14.561Z"
  }
  
 
