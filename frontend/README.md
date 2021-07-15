@@ -1,5 +1,5 @@
-# Transações App React JS
-> Frontend do projeto Empresas.
+# Controle Financeiro App React JS
+> Frontend do projeto Controle Financeiro.
 
 
 ## Layout
